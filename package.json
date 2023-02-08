@@ -74,7 +74,7 @@
     "cssjanus": "^2.1.0",
     "jest": "^29.3.1",
     "jest-environment-jsdom": "^29.3.1",
-    "postcss": "^8.4.20",
+    "postcss": "^8.4.21",
     "postcss-cssjanus": "^1.0.5",
     "tailwindcss": "^3.2.4",
     "ts-jest": "^29.0.3",
